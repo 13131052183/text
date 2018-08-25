@@ -1,6 +1,8 @@
 git remote add origin https://github.com/13131052183/text
 
-print('first commit')<
+print('first commit')
+
+print('第二次')
 
 
 
